@@ -34,7 +34,7 @@ minima:
   header_pages:
     - about.markdown
     - contacts.markdown
-  skin: solarized
+    - technology.markdown
 
 
 # Exclude from processing.
