@@ -5,6 +5,20 @@
 layout: home
 ---
 
-## **Domik Systems** helps to achieve your targets in the diverse field of information technology.
+# Domik Systems
+We help set your systems in *order*.
 
-## Our extensive expertise and experience enable us to compose eloquent solutions that directly fulfill your needs.
+Our highly qualified consultants can provide you with:
+- Turn-key solutions for analytics, data storage, and data processing.
+- Acquisition, integration, and repackaging of diverse programming components and services.
+- Development of distributed systems (Telecom, Cloud computing)
+- Arrangement of the development process for your product (Hiring, Process establishment, Technical advice)
+
+```clojure
+(defn domik [system]
+  (-> system
+      (analyze requirements)
+      (diagnose problems)
+      (advice solutions)
+      (embrace :order)))
+```
